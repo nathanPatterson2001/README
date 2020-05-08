@@ -1,6 +1,6 @@
 # README
 
-#### This is Nathans [Markdown](Markdown https://daringfireball.net/projects/markdown/syntax) website and it will tell you a little about myself! 
+#### This is Nathans [Markdown](https://daringfireball.net/projects/markdown/syntax) website and it will tell you a little about myself! 
 
 Here are the things that I want you to know about me:
 
