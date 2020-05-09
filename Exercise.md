@@ -6,7 +6,7 @@ If I really started to do more of this I would follow [this workout routine](htt
 
 If Im looking for more of an old time feel then this is my target body:
 
-![bod](/Users/nathanpatterson/Desktop/old timey.jpeg)
+![bod](old timey.jpeg)
 
 
 
