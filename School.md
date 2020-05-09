@@ -14,7 +14,7 @@ Im really excited to live there with all of my friends!
 
 My favorite place on the Mizzou Campus is definalty the quad. I mean how can you get over that view?
 
-![The Quad](/Users/nathanpatterson/Desktop/COloum.jpg)
+![The Quad](quad.jpeg)
 
 
 
