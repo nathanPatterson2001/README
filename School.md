@@ -6,7 +6,7 @@
 
 This is where I will be living next year: 
 
-![Frat House](Frat House.jpg)
+![Frat House](frat.jpeg)
 
 Im really excited to live there with all of my friends!
 
